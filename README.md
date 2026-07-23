@@ -1,4 +1,4 @@
-![Imagen Titulo](/media/nisamov.gif)
+![Imagen Titulo](/media/nisamov_2.png)
 
 <!--
 <div align="center">
