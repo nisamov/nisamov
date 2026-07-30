@@ -12,16 +12,30 @@
 </div>
 -->
 <div align="center">
-
-| | |
-|:---:|:---:|
-| [![LinkedIn](./media/assets/b1.png)](https://www.linkedin.com/in/nisamov/) | [![LinuxCore](./media/assets/b2.png)](https://linuxcore.site/) |
-| [![Designs](./media/assets/b3.png)](https://nisamov.is-a.dev/) | [![Education](media/assets/b4.png)](mailto:nisamov.contact@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%2C%20me%20gustaría%20ponerme%20en%20contacto%20contigo.) |
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://www.linkedin.com/in/nisamov/">
+          <img src="./media/assets/b1.png" width="330" height="180" alt="LinkedIn" style="border: none; display: block;" />
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://linuxcore.site/">
+          <img src="./media/assets/b2.png" width="330" height="180" alt="LinuxCore" style="border: none; display: block;" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://nisamov.is-a.dev/">
+          <img src="./media/assets/b3.png" width="330" height="180" alt="designs" style="border: none; display: block;" />
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="mailto:nisamov.contact@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%2C%20me%20gustaría%20ponerme%20en%20contacto%20contigo.">
+          <img src="./media/assets/b4.png" width="330" height="180" alt="education" style="border: none; display: block;" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<style>
-  table img {
-    width: 230px !important;
-  }
-</style>
