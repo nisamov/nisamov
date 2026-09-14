@@ -1,6 +1,6 @@
+<!--
 ![Imagen Titulo](/media/nisamov_2.png)
 
-<!--
 <div align="center">
 <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&logoColor=white" alt="Linux"/>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </div>
--->
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -39,3 +38,10 @@
     </tr>
   </table>
 </div>
+-->
+
+![Titulo](/media/nuevo/titular.png)
+![Separador](/media/nuevo/subalineador.png)
+![I1](/media/nuevo/1.png) ![Separador](/media/nuevo/separador.png) ![I2](/media/nuevo/2.png)
+![Separador](/media/nuevo/subalineador.png)
+![I3](/media/nuevo/3.png) ![Separador](/media/nuevo/separador.png) ![I4](/media/nuevo/4.png)
