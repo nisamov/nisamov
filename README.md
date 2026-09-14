@@ -41,7 +41,14 @@
 -->
 
 ![Titulo](/media/nuevo/titular.png)
-![Separador](/media/nuevo/subalineador.png)
-![I1](/media/nuevo/1.png) ![Separador](/media/nuevo/separador.png) ![I2](/media/nuevo/2.png)
-![Separador](/media/nuevo/subalineador.png)
-![I3](/media/nuevo/3.png) ![Separador](/media/nuevo/separador.png) ![I4](/media/nuevo/4.png)
+
+<table>
+  <tr>
+    <td align="center"><img src="/media/nuevo/1.png" alt="I1"></td>
+    <td align="center"><img src="/media/nuevo/2.png" alt="I2"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="/media/nuevo/3.png" alt="I3"></td>
+    <td align="center"><img src="/media/nuevo/4.png" alt="I4"></td>
+  </tr>
+</table>
