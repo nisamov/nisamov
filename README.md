@@ -40,6 +40,7 @@
 </div>
 -->
 
+<!--
 ![Titulo](/media/nuevo/titular.png)
 
 <table>
@@ -52,3 +53,21 @@
     <td align="center"><img src="/media/nuevo/4.png" alt="I4"></td>
   </tr>
 </table>
+-->
+
+![Titulo](/media/nuevo/titular.png)
+![Separador](/media/nuevo/subalineador.png)
+
+<p align="center">
+  <img src="/media/nuevo/1.png" alt="I1" width="48%" />
+  <img src="/media/nuevo/separador.png" alt="Separador" width="2%" /> 
+  <img src="/media/nuevo/2.png" alt="I2" width="48%" />
+</p>
+
+![Separador](/media/nuevo/subalineador.png)
+
+<p align="center">
+  <img src="/media/nuevo/3.png" alt="I3" width="48%" />
+  <img src="/media/nuevo/separador.png" alt="Separador" width="2%" />
+  <img src="/media/nuevo/4.png" alt="I4" width="48%" />
+</p>
