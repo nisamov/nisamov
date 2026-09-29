@@ -1,0 +1,13 @@
+{
+  "azul": {
+    "linkedin.png": "https://www.linkedin.com/in/nisamov/",
+    "contacto.png": "mailto:nisamov.contact@gmail.com",
+    "gists.png": "https://gist.github.com/nisamov",
+    "orcid.png": "https://orcid.org/0009-0008-5144-7706"
+  },
+  "rosa": {
+    "credly.png": "https://www.credly.com/users/nisamov/badges/credly",
+    "linuxcore.png": "https://linuxcore.site/",
+    "sobremi.png": "https://nisamov.is-a.dev/"
+  }
+}
