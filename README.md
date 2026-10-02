@@ -1,8 +1,8 @@
 ![Titulo](/media/titular.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nisamov/">
-    <img src="/media/azul/linkedin.png" alt="linkedin" width="48%" />
+  <a href="https://orcid.org/0009-0008-5144-7706">
+    <img src="/media/azul/orcid.png" alt="orcid" width="48%" />
   </a>
   &nbsp;
   <a href="https://www.credly.com/users/nisamov/badges/credly">
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linuxcore.site/">
-    <img src="/media/rosa/linuxcore.png" alt="linuxcore" width="48%" />
+  <a href="https://nisamov.is-a.dev/">
+    <img src="/media/rosa/sobremi.png" alt="sobremi" width="48%" />
   </a>
   &nbsp;
-  <a href="https://gist.github.com/nisamov">
-    <img src="/media/azul/gists.png" alt="gists" width="48%" />
+  <a href="https://www.linkedin.com/in/nisamov/">
+    <img src="/media/azul/linkedin.png" alt="linkedin" width="48%" />
   </a>
 </p>
