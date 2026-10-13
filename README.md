@@ -1,8 +1,8 @@
 ![Titulo](/media/titular.png)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nisamov/">
-    <img src="/media/azul/linkedin.png" alt="linkedin" width="48%" />
+  <a href="mailto:nisamov.contact@gmail.com">
+    <img src="/media/azul/contacto.png" alt="contacto" width="48%" />
   </a>
   &nbsp;
   <a href="https://www.credly.com/users/nisamov/badges/credly">
