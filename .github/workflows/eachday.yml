@@ -3,18 +3,22 @@ on:
   schedule:
     - cron: '1 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   update-days:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PERSONAL_TOKEN }}
+          token: ${{ github.token }}
       - name: Get GitHub account creation date
         id: getdate
         run: |
-          creation=$(curl -s -H "Authorization: token ${{ secrets.PERSONAL_TOKEN }}" \
+          creation=$(curl -s -H "Authorization: Bearer ${{ github.token }}" \
             https://api.github.com/users/Nisamov | jq -r .created_at)
           echo "creation=$creation" >> $GITHUB_OUTPUT
       - name: Calculate days since account creation
