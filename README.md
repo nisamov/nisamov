@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; margin: 0 auto; width: 100%; max-width: 1560px;" cellspacing="0" cellpadding="6">
+  <table style="border: none; border-collapse: collapse; margin: 0 auto; width: 100%; max-width: 1560px; font-weight: 700; line-height: 32px;" cellspacing="0" cellpadding="6">
     <tr style="border: none;">
       <td style="border: none; font-size: 16px; font-weight: 700; text-align: left; white-space: nowrap;"><img src="https://api.iconify.design/logos/mysql.svg" alt="MySQL" width="32" style="vertical-align: middle;"> MySQL</td>
       <td style="border: none; font-size: 16px; font-weight: 700; text-align: left; white-space: nowrap;"><img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" width="32" style="vertical-align: middle;"> JavaScript</td>
