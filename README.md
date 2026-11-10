@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/users/nisamov/badges/credly">
-    <img src="/media/rosa/credly.png" alt="credly" width="48%" />
+  <a href="https://hikarune.online/">
+    <img src="/media/rosa/hikarune.png" alt="hikarune" width="48%" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/nisamov/">
